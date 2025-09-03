@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /order?
+Disallow: /checkout
+Disallow: /admin
+Sitemap: https://rushviral.com/sitemap.xml
